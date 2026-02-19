@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/updateflash/statreq' protocol='2.0'>
   <app appid='aopcfjhgdfcocmbfjkjokelaemdmfgmg'>
-    <updatecheck codebase='https://meyerklein.github.io/MCA-Highlighter-Extension/MCA-Gmail.crx' version='1.0.1' />
+    <updatecheck codebase='https://meyerklein.github.io/MCA-Highlighter-Extension/MCA-Gmail.crx' version='1.0.2' />
   </app>
 </gupdate>
